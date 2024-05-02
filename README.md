@@ -3,7 +3,7 @@
 Meu nome é Lowene Yasmin
 
 Estou estudando na alura
-EStou desenvolvendo na linguagem JavaScript
+Estou desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ### Você entrar em contato comigo 📫
